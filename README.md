@@ -4,3 +4,9 @@
 - Redesign and refactor JS code. this project is a part of my scrimba course
 - Used to count passengers in subway or coffee shops or any places you want
 - All made by only JS
+
+## Recap
+✔️ Scripts
+✔️ Variables
+✔️ String & Number
+✔️ Functions
